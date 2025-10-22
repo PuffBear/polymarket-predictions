@@ -31,7 +31,6 @@ wheels/
 .ipynb_checkpoints
 
 # Data (raw data should not be in version control)
-/data/raw/
 /data/processed/
 *.csv
 *.parquet
