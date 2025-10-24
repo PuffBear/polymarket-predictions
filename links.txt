@@ -1,0 +1,1 @@
+https://huggingface.co/tabularisai/multilingual-sentiment-analysis
